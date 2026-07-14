@@ -22,6 +22,16 @@ Cloud-native backend for algorithmic trading and quantitative strategy experimen
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 * **Key Focus:** Clean architecture, data persistence, and API design.
 
+### 🌐 [order-event-driven](https://github.com/nrivera-dev/order-event-driven)
+Enterprise-grade order processing system utilizing Spring Boot, AWS SQS event-driven messaging, PostgreSQL, and Redis.
+* **Core Stack:** 
+  ![Java 21](https://img.shields.io/badge/Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white) 
+  ![Spring Boot 3](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+  ![AWS SQS](https://img.shields.io/badge/AWS%20SQS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+* **Key Focus:** Event-driven architecture, API Security (JWT), idempotency, and containerization.
+
 ### 🦀 [arb-ultra](https://github.com/nrivera-dev/arb-ultra)
 DeFi simulation and research toolkit focused on low-latency data scanning and liquidation routing on Base and Arbitrum.
 * **Core Stack:** 
