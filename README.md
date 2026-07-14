@@ -22,8 +22,8 @@ Cloud-native backend for algorithmic trading and quantitative strategy experimen
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 * **Key Focus:** Clean architecture, data persistence, and API design.
 
-### 🦀 Rust MEV Bot
-Personal research project focused on blockchain automation and low-latency infrastructure.
+### 🦀 [arb-ultra](https://github.com/nrivera-dev/arb-ultra)
+DeFi simulation and research toolkit focused on low-latency data scanning and liquidation routing on Base and Arbitrum.
 * **Core Stack:** 
   ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
