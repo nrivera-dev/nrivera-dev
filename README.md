@@ -44,16 +44,5 @@ Personal research project focused on blockchain automation and low-latency infra
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrivera-dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrivera-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 💬 Contact
-* **LinkedIn:** [linkedin.com/in/nrivera-dev](https://linkedin.com/in/nrivera-dev)
-* **Email:** [nrivera.dev@gmail.com](mailto:nrivera.dev@gmail.com)
 * **Location:** Colombia (COT Timezone)
